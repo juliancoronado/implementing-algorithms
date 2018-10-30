@@ -1,4 +1,5 @@
-# project-1-skeleton
+# project-1
+CPSC 335 Algorithms
 Project 1: Implementing Algorithms
 
 Group members:
