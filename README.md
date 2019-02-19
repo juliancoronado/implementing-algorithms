@@ -1,8 +1,6 @@
-# project-1
-CPSC 335 Algorithms
+# Implementing Algorithms
+CPSC 335 Algorithms Engineering
 
-Project 1: Implementing Algorithms
-
-Group members:
-
-Julian Coronado juliancoronado@csu.fullerton.edu
+Project 1 by
+Julian Coronado
+(juliancoronado@csu.fullerton.edu)
